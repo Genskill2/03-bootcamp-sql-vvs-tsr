@@ -1,1 +1,1 @@
-update publisher set name = 'Prentice HaLL' where name = 'PHI';
+update publisher set name = 'Prentice Hall' where name = 'PHI';
